@@ -1,0 +1,23 @@
+body{
+    background-image: url('../images/background1.jpg');
+    color: goldenrod
+}
+
+#question{
+    display: none;
+}
+
+#score{
+    font-size: 30px;
+    margin-top: 20px;
+    
+}
+
+#result{
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+img{
+    width: 300px;
+}
